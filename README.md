@@ -19,5 +19,5 @@ This project visualizes the Quick Sort algorithm using OpenGL and GLFW. The prog
 ### Installation on Windows
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Algorithm-Visualization.git
-   cd Algorithm-Visualization
+   git clone https://github.com/AhmedSamyMousa/Algorithm-Visualization-OpenGl
+   cd Algorithm Visualization(OpenGl)
